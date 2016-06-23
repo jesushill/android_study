@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestView</string>
+    <string name="hello_world">Hello!!</string>
+    <string name="btnLabel1">My Button1</string>
+</resources>
